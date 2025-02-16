@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/interactive-layout/static/css/main.8e127b22.css",
+    "main.js": "/interactive-layout/static/js/main.d6360664.js",
+    "static/js/453.ad6eb26e.chunk.js": "/interactive-layout/static/js/453.ad6eb26e.chunk.js",
+    "static/media/Central_Texas1.png": "/interactive-layout/static/media/Central_Texas1.c29763de73a83f36fa4c.png",
+    "static/media/Explore_Fly_Fishing.png": "/interactive-layout/static/media/Explore_Fly_Fishing.50e7e14f2f1df530ec74.png",
+    "static/media/John_Story.png": "/interactive-layout/static/media/John_Story.9639c2aaef03d1dfff26.png",
+    "static/media/Catch_Day.png": "/interactive-layout/static/media/Catch_Day.595dfaef7aeba3221db2.png",
+    "static/media/The Journey.png": "/interactive-layout/static/media/The Journey.925e50a96f84b4d3f80c.png",
+    "static/media/Trout_Tales.png": "/interactive-layout/static/media/Trout_Tales.a90751fec85399484541.png",
+    "static/media/linkedin.svg": "/interactive-layout/static/media/linkedin.29f08780131c98da69814688da453dfc.svg",
+    "static/media/facebook.svg": "/interactive-layout/static/media/facebook.0a9b0e8acb59a177dec138309d816b37.svg",
+    "static/media/instagram.svg": "/interactive-layout/static/media/instagram.9f458e188215c2d67a8bdbb4a01a4040.svg",
+    "index.html": "/interactive-layout/index.html",
+    "main.8e127b22.css.map": "/interactive-layout/static/css/main.8e127b22.css.map",
+    "main.d6360664.js.map": "/interactive-layout/static/js/main.d6360664.js.map",
+    "453.ad6eb26e.chunk.js.map": "/interactive-layout/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e127b22.css",
+    "static/js/main.d6360664.js"
+  ]
+}
